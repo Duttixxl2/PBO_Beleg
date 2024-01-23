@@ -27,5 +27,8 @@ coverage
 *.sln
 *.sw?
 
+# ENV
+.env
+
 # Files which are excluded for better local development experience
-src/router/index.js
+# src/router/index.js
